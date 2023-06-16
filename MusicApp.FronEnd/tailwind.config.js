@@ -1,4 +1,7 @@
 /** @type {import('tailwindcss').Config} */
+const plugin = require('tailwindcss/plugin')
+
+
 module.exports = {
   content: [
     "./src/**/*.{html,ts}",
@@ -6,6 +9,9 @@ module.exports = {
   theme: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    plugin(function ({ addUtilities, addComponents, e, config }) {
+      // Add your custom styles here
+    }),],
 }
 
