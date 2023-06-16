@@ -13,9 +13,11 @@ Alguns meses atrás eu estava procurando por grupos ou bandas para fazer parte, 
 Com isso, veio a ideia de ter "um lugar" apenas para pessoas que buscam os mesmos objetivos e/ou profissionais que buscam músicos para negócios, etc.
 
 Hoje em dia existem várias redes sociais para nichos específicos, como:
-* Instagram -> Vida social e privada de seus usuários 
-* LinkedIn -> Para trabalhos e negócios
-* Twitter -> Para postar sobre o que pensa, notícias, artigos, etc.
+* Instagram: Vida social e privada de seus usuários 
+* LinkedIn: Para trabalhos e negócios
+* Twitter: Para postar sobre o que pensa, notícias, artigos, etc.
+* TikTok: Aplicativo de mídia para criar e compartilhar vídeos curtos.
+* Entre vários outros
 
 Ou seja, existem aplicativos para quase tudo. Então, por quê não uma rede social específica para músicos e artistas? Foi aí então que surgiu a ideia de construir o **MusicApp**.
 
