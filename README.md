@@ -35,7 +35,7 @@ O projeto, até o momento, está dividido em 2 partes (Api -> C# e o Front End -
 
 ### Front End
 Linguagem: Typescript / Angular
-Versão: 15.1.5
+Versão: 15.2.7
 * A decisão veio por conta de eu estar trabalhando atualmente com este framework, então o projeto vem para me ajudar nos estudos e entendimento do mesmo.
 * Tailwind UI -> A definir...
 Versão: ...
