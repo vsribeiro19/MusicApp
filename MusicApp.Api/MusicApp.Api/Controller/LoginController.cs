@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MusicApp.Api.Model;
 
 namespace MusicApp.Api.Controller
 {
@@ -7,6 +8,7 @@ namespace MusicApp.Api.Controller
     [Route("[controller]")]
     public class LoginController : ControllerBase
     {
+    S
 
     }
 }
