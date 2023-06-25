@@ -1,7 +1,9 @@
+using Microsoft.EntityFrameworkCore;
 using MusicApp.Api.Model;
 
 var builder = WebApplication.CreateBuilder(args);
-//builder.Services.AddTransient<>
+builder.Services.AddDbContext<DatabaseContext>
+    (options => options.UseSqlServer(builder.Configuration.GetConnectionString("MusicApp")));
 var app = builder.Build();
 
 
