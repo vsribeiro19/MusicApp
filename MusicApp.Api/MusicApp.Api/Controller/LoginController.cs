@@ -8,7 +8,6 @@ namespace MusicApp.Api.Controller
     [Route("[controller]")]
     public class LoginController : ControllerBase
     {
-    S
-
+    
     }
 }
