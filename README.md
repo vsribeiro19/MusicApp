@@ -3,6 +3,6 @@
 ### Sobre o projeto
 Este projeto pessoal está sendo construído com muito carinho e dedicação, inteiramente e apenas por mim. 
 
-### Quer saber detalhadamento como está sendo realizado o desenvolvimento deste projeto? [Clique aqui](https://github.com/vsribeiro19/MusicApp/wiki)
+### Quer saber como está sendo realizado o desenvolvimento deste projeto? [Clique aqui](https://github.com/vsribeiro19/MusicApp/wiki)
 
 
