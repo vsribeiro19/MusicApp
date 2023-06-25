@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GIu7NfGWiPQUNshM2JB1x8Vob7OibjQiKCOdUkDnF8KxqY37DW23bXHSQ94wDBccE6Wu61xa0t9nXBw3U3ZMOA==",
+  "dgSpecHash": "J+8grdHE+Ano4BBb+k7AvYOfqueqlqaE7HAqVwenz7igZ7qfGp78ClzpR/c5Leg+h5uXNZ9aper/NzcFgDo8mg==",
   "success": true,
   "projectFilePath": "C:\\dev\\MusicApp\\MusicApp.Api\\MusicApp.Api\\MusicApp.Api.csproj",
   "expectedPackageFiles": [
@@ -48,6 +48,7 @@
     "C:\\Users\\Victor\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
     "C:\\Users\\Victor\\.nuget\\packages\\system.data.sqlclient\\4.8.1\\system.data.sqlclient.4.8.1.nupkg.sha512",
     "C:\\Users\\Victor\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
     "C:\\Users\\Victor\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
     "C:\\Users\\Victor\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
     "C:\\Users\\Victor\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
