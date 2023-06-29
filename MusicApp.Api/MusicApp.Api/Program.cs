@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using MusicApp.Api.Model;
+using MusicApp.Api.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<DatabaseContext>
