@@ -12,6 +12,6 @@ namespace MusicApp.Api.Model
         public string? Senha { get; set; }
         public Perfil? Perfil { get; set; }
         public DateTime? DataCriacao { get; set; }
-
+        public bool? Status { get; set; }
     }
 }

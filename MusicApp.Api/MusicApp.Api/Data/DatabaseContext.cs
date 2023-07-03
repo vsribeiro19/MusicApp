@@ -33,11 +33,11 @@ namespace MusicApp.Api.Data
             modelBuilder.Entity<Usuario>().Property(p => p.Senha)
                 .IsRequired()
                 .HasColumnType("varchar(50)");
-            //modelBuilder.Entity<Usuario>().Property(p => p.Perfil.TipoUsuario)
-            //     .IsRequired().Has; 
-            //modelBuilder.Entity<Usuario>().Property(p => p.Perfil.Instrumento)
-            //    .IsRequired()
-            //    .HasColumnType("varchar(20)");
+            modelBuilder.Entity<Usuario>().Property(p => p.Perfil!.TipoUsuario)
+                 .IsRequired().HasColumnType("int");
+            modelBuilder.Entity<Usuario>().Property(p => p.Perfil!.Instrumento)
+                .IsRequired()
+                .HasColumnType("varchar(20)");
 
 
 
