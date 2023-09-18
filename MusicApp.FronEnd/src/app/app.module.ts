@@ -19,6 +19,6 @@ import { CadastroComponent } from './login/cadastro/cadastro.component';
     AppRoutingModule
   ],
   providers: [],
-  bootstrap: [LoginComponent]
+  bootstrap: [AppComponent]
 })
 export class AppModule { }
