@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\dev\\MusicApp\\MusicApp.Api\\MusicApp.Api\\MusicApp.Api.csproj",
         "projectName": "MusicApp.Api",
         "projectPath": "C:\\dev\\MusicApp\\MusicApp.Api\\MusicApp.Api\\MusicApp.Api.csproj",
-        "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\victor.ribeiro\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\MusicApp\\MusicApp.Api\\MusicApp.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\victor.ribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
